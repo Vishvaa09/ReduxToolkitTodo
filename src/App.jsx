@@ -9,7 +9,7 @@ function App() {
   return (
     <>
     <h1>
-      hello vishva
+      learn about reduxToolkit
     </h1>
     <AddTodo />
     <Todos />
